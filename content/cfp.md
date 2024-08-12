@@ -1,9 +1,9 @@
 ---
 eleventyNavigation:
-  key: Call for Papers
+  key: Call for Abstracts
   order: 1
 ---
 
-# Call for Papers
+# Call for Abstracts
 
-Blah blah blah
+TBA
