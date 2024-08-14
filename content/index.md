@@ -48,6 +48,15 @@ WCCFL 43 is organized by the following individuals:
 
 To contact the organizers, please email [wccfl43@gmail.com](mailto:wccfl43@gmail.com).
 
+# Sponsorship
+
+We are grateful to the following organizations for their support of WCCFL 43:
+
+- [The Walter Chapin Simpson Center for the Humanities](https://simpsoncenter.org/)
+- [University of Washington Divisional Dean of Humanities](https://artsci.washington.edu/academics/humanities)
+- [University of Washington Department of Linguistics](https://linguistics.washington.edu/)
+- [University of Washington Asian Languages and Literature Department](https://asian.washington.edu/)
+
 </div>
 
 </div>

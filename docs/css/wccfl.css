@@ -32,3 +32,8 @@ body {
     color: var(--lavender);
     visibility: hidden;
 }
+
+/* this seems like a hack */
+.row > ul {
+    padding-left: 2rem;
+}
