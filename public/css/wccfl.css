@@ -16,6 +16,13 @@ body {
     font-family: "Open_Sans", sans-serif;
 }
 
+a {
+    color: var(--purple);
+}
+a:hover {
+    color: var(--lavender);
+}
+
 .bg-purple {
     background-color: var(--purple);
 }

@@ -35,7 +35,6 @@ WCCFL 43 will be hosted by the [University of Washington Department of Linguisti
 </div>
 </div>
 
-<div class="row">
 
 # Organization
 
@@ -57,7 +56,6 @@ We are grateful to the following organizations for their support of WCCFL 43:
 - [University of Washington Department of Linguistics](https://linguistics.washington.edu/)
 - [University of Washington Asian Languages and Literature Department](https://asian.washington.edu/)
 
-</div>
 
 </div>
 </div>
